@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🔥 Big supporter of open source projects!
 - 🔌 I'm currently open for collaboration on python projects, ideally regarding LLMs and NLP.
 - :art: I'm always open to solving math challenges using programming, like [Project Euler](https://projecteuler.net/)
+- 🐍 Using Python, mostly PySpark, at work.
