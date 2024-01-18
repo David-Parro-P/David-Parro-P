@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me, David Parro :smile:
 
 <!--
 **David-Parro-P/David-Parro-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ I'm currently working on personal solutions for datapi pelines and involved in the devolopment of different RAG systems asssisted by LLMs, such as Mistral
+- 🔥 Big supporter of open source projects!
+- 🔌 I'm currently open for collaboration on python projects, ideally regarding LLMs and NLP.
+- :art: I'm always open to solving math challenges using programming, like [Project Euler](https://projecteuler.net/)
